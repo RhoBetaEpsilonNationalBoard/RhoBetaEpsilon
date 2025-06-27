@@ -106,6 +106,7 @@ pluralizelisttitles = false
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
+    basePath = "/RhoBetaEpsilon"
     viewMorePostLink = "/blog/"
     author = "DevCows"
     defaultKeywords = ["Rho Beta Epsilon", "National Board", "Robotics", "Honor Society", "College", "University"]
