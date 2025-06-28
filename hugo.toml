@@ -21,19 +21,19 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Our Mission"
-    url        = ""
+    url        = "/about/mission/"
     weight     = 1
     parent     = "menu.about"
 
 [[menu.main]]
     name       = "Active Chapters"
-    url        = ""
+    url        = "/about/chapters/"
     weight     = 2
     parent     = "menu.about"
 
 [[menu.main]]
     name       = "National Board"
-    url        = ""
+    url        = "/about/board/"
     weight     = 3
     parent     = "menu.about"
 
@@ -43,21 +43,21 @@ pluralizelisttitles = false
     weight     = 3
 
 [[menu.main]]
-    name       = "Documents Templates"
-    url        = ""
+    name       = "Document Templates"
+    url        = "/resources/templates/"
     weight     = 1
     parent     = "menu.resources"
 
 [[menu.main]]
     name       = "Marketing"
-    url        = ""
+    url        = "/resources/marketing/"
     weight     = 2
     parent     = "menu.resources"
 
 [[menu.main]]
     name       = "Starting a Chapter"
     identifier = "menu.starting"
-    url        = ""
+    url        = "/startingachapter/"
     weight     = 4
 
 [[menu.main]]
@@ -142,7 +142,7 @@ pluralizelisttitles = false
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io endpoint url
-    formspree_action = "https://formspree.io/sample/of/endpoint"
+    formspree_action = "https://formspree.io/f/mldnaapa"
     contact_form_ajax = false
 
     # Formspree form supports Google reCAPTCHA Key (type v2).

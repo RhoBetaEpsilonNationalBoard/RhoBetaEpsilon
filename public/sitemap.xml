@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/RhoBetaEpsilon/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/RhoBetaEpsilon/about/chapters/</loc>
+  </url><url>
     <loc>http://localhost:1313/RhoBetaEpsilon/authors/</loc>
   </url><url>
     <loc>http://localhost:1313/RhoBetaEpsilon/categories/</loc>
@@ -10,7 +14,19 @@
   </url><url>
     <loc>http://localhost:1313/RhoBetaEpsilon/contact/</loc>
   </url><url>
+    <loc>http://localhost:1313/RhoBetaEpsilon/resources/templates/</loc>
+  </url><url>
+    <loc>http://localhost:1313/RhoBetaEpsilon/resources/marketing/</loc>
+  </url><url>
+    <loc>http://localhost:1313/RhoBetaEpsilon/about/board/</loc>
+  </url><url>
+    <loc>http://localhost:1313/RhoBetaEpsilon/about/mission/</loc>
+  </url><url>
+    <loc>http://localhost:1313/RhoBetaEpsilon/resources/</loc>
+  </url><url>
     <loc>http://localhost:1313/RhoBetaEpsilon/</loc>
+  </url><url>
+    <loc>http://localhost:1313/RhoBetaEpsilon/startingachapter/</loc>
   </url><url>
     <loc>http://localhost:1313/RhoBetaEpsilon/tags/</loc>
   </url>

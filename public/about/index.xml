@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Rho Beta Epsilon</title>
+    <link>http://localhost:1313/RhoBetaEpsilon/about/</link>
+    <description>Recent content in About on Rho Beta Epsilon</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/RhoBetaEpsilon/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Active Chapters</title>
+      <link>http://localhost:1313/RhoBetaEpsilon/about/chapters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RhoBetaEpsilon/about/chapters/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>National Board</title>
+      <link>http://localhost:1313/RhoBetaEpsilon/about/board/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RhoBetaEpsilon/about/board/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Our Mission</title>
+      <link>http://localhost:1313/RhoBetaEpsilon/about/mission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RhoBetaEpsilon/about/mission/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

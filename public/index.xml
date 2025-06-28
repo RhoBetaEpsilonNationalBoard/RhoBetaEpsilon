@@ -8,6 +8,13 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/RhoBetaEpsilon/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Active Chapters</title>
+      <link>http://localhost:1313/RhoBetaEpsilon/about/chapters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RhoBetaEpsilon/about/chapters/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Constitution</title>
       <link>http://localhost:1313/RhoBetaEpsilon/constitution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -20,6 +27,41 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/RhoBetaEpsilon/contact/</guid>
       <description>&lt;h1 id=&#34;get-in-touch-with-us&#34;&gt;Get in Touch with Us!&lt;/h1&gt;&#xA;&lt;p&gt;Interested in starting a Rho Beta Epsilon chapter at your college or university? Want to learn more about how PBE supports the robotics engineering community?&lt;/p&gt;&#xA;&lt;p&gt;Send us an email at &lt;a href=&#34;mailto:rho-beta-epsilon-nationals@googlegroups.com&#34;&gt;rho-beta-epsilon-nationals@googlegroups.com&lt;/a&gt; and we&amp;rsquo;ll get back to you soon.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Document Templates</title>
+      <link>http://localhost:1313/RhoBetaEpsilon/resources/templates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RhoBetaEpsilon/resources/templates/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Marketing</title>
+      <link>http://localhost:1313/RhoBetaEpsilon/resources/marketing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RhoBetaEpsilon/resources/marketing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>National Board</title>
+      <link>http://localhost:1313/RhoBetaEpsilon/about/board/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RhoBetaEpsilon/about/board/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Our Mission</title>
+      <link>http://localhost:1313/RhoBetaEpsilon/about/mission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RhoBetaEpsilon/about/mission/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Starting a Chapter</title>
+      <link>http://localhost:1313/RhoBetaEpsilon/startingachapter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RhoBetaEpsilon/startingachapter/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
