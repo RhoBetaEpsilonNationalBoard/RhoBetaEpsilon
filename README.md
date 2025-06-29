@@ -3,7 +3,7 @@ This is the Rho Beta Epsilon National Board website, hosted through GitHub and p
 It's currently using this theme: https://github.com/devcows/hugo-universal-theme?tab=readme-ov-fileme and the example site to test setup.
 
 ---
-Due to the theme used, make sure to install v0.145.0 to ensure that everything in the basic theme can load correctly. These instructions may need to be modified to ensure that the right version is grabbed. Full instructions are here: [installation guide](https://gohugo.io/installation/)
+**Due to the theme used, make sure to install v0.145.0 to ensure that everything in the basic theme can load correctly.** These instructions may need to be modified to ensure that the right version is grabbed. Full instructions are here: [installation guide](https://gohugo.io/installation/)
 
 <details>
 <summary><strong>Linux Installation Instructions</strong></summary>
