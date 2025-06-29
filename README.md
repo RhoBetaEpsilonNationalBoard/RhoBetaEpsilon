@@ -3,24 +3,20 @@ This is the Rho Beta Epsilon National Board website, hosted through GitHub and p
 It's currently using this theme: https://github.com/devcows/hugo-universal-theme?tab=readme-ov-fileme and the example site to test setup.
 
 ---
-Setting up the environment to edit this site is easiest on Linux. Additional details on setup and steps for Windows/Mac can be found [here](https://gohugo.io/installation/).
+Due to the theme used, make sure to install v0.145.0 to ensure that everything in the basic theme can load correctly. These instructions may need to be modified to ensure that the right version is grabbed. Full instructions are here: [installation guide](https://gohugo.io/installation/)
 
 <details>
 <summary><strong>Linux Installation Instructions</strong></summary>
 
-1. Install *Hugo* via the command line:  
-   - Run the following line in shell:  
-     ```bash
-     sudo snap install hugo
-     ```  
-   - Check installation was successful:  
-     ```bash
-     hugo version
-     ```  
-   - This should display something like:
-     ```bash
-     hugo v0.147.9
-     ```
+3. Install the extended edition of Hugo:
+    - Download version 0.145.0 from the release: https://github.com/gohugoio/hugo/releases/tag/v0.145.0
+      - Download the zip file: hugo_extended_0.145.0_windows-amd64.zip
+    - Unzip into a folder somewhere called `hugo` (best spot is probably in `/usr/local/bin`)
+      - can do this with
+      ```bash
+      sudo mv hugo /usr/local/bin/
+      ```
+    - Add this folder to your system path 
 
 2. Install *Go* via the command line:  
    - Run the following line in shell:  
@@ -78,11 +74,15 @@ Setting up the environment to edit this site is easiest on Linux. Additional det
     - Installing via the prebuilt binaries is recommended
 
 3. Install the extended edition of Hugo:
-    - Open Powershell as an administrator
-    - Run:
-        ```powershell
-        winget install Hugo.Hugo.Extended
-        ```
+    - Download version 0.145.0 from the release: https://github.com/gohugoio/hugo/releases/tag/v0.145.0
+      - Download the zip file: hugo_extended_0.145.0_windows-amd64.zip
+    - Unzip into a folder somewhere called `Hugo`
+    - Add this folder to your system path
+      - Press the `*windows* key
+      - Search for `Environment variables`
+      - Edit your system `Path`
+      - Add the location of the `Hugo` folder to the path
+
 4. Clone the website [repo](https://github.com/RhoBetaEpsilonNationalBoard/RhoBetaEpsilon):  
    - If you want to clone with HTTPS:  
         ```powershell
