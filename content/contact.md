@@ -6,4 +6,4 @@ id = "contact"
 # Get in Touch with Us!
 Interested in starting a Rho Beta Epsilon chapter at your college or university? Want to learn more about how PBE supports the robotics engineering community?
 
-Send us an email at <rho-beta-epsilon-nationals@googlegroups.com> and we'll get back to you soon.
+Fill out the contact form below, or send us an email at <rho-beta-epsilon-nationals@googlegroups.com>!
