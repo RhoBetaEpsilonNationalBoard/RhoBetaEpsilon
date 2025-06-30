@@ -14,3 +14,9 @@
 .box-simple {
     min-height: 230px;
 }
+
+.grad-officers {
+    background: url("../img/grad-officers.png") center center fixed;
+    background-size: cover;
+    position: relative;
+}
