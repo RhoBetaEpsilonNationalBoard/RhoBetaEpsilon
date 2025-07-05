@@ -14,7 +14,9 @@ Rho Beta Epsilon members are responsible for fostering a strong community within
 Any college or university with an undergraduate or graduate degree in robotics engineering is eligible for a PBE chapter!
 
 ## Wait wait wait, robotics engineering? What's that?
-Robotics combines engineering, computer science, and AI to create machines for various tasks. Here at PBE, we consider robotics engineering as any degree program that combines mechanical, electrical, and computer enginering, along with computer science, into one course of study. Your school might treat this as a 'focus' within a larger department, or have qualifying degrees in topics like mechatronics, automation, or artificial inteliigence.
+Robotics combines engineering, computer science, and AI to create machines for various tasks. Here at PBE, we consider robotics engineering as any degree program that combines mechanical, electrical, and computer enginering, along with computer science, into one course of study. Coursework in robotics covers most of the following topics: sensing, actuation, manipulation, planning, kinematics, and control. Robotics coursework should also include a substantial amount of project work involving designing, building, and testing real world robots.
+
+Some schools may have official degrees in robotics engineering. Other schools might treat this as a 'focus' within a larger department, or have qualifying degrees in topics like mechatronics, automation, or artificial inteliigence.
 
 Some examples of eligible programs include:
 - [WPI](https://www.wpi.edu/academics/departments/robotics-engineering)
@@ -35,10 +37,11 @@ To be a member of Rho Beta Epsilon, you need to:
 and most importantly,
 - Exemplify the values of Rho Beta Epsilon: 
     - Encourage and recognize exemplary robotics students at the university level while aiding in their personal and professional development, and to advance the robotics engineering community through exceptional education, leadership, and passion for robotics. 
+
 ## So how do I start a chapter?
-1. Find at least nine interested students who believe in growing the robotics community and promoting engineering for everyone, and are willing to help lead your new chapter as your first group of society officers
-2. Find a faculty adviser - someone who your new officers trust and respect. They'll help you resolve conflicts, ensure compliance with university regulations, and connect your new society to department faculty
-3. Develop a set of proposed bylaws, laying out how your new chapter will function and how it will foster your school's robotics community. You can use this template to help get started: [template bylaws](https://docs.google.com/document/d/1o9g7VZ6GFFsRtuEG798mKWX_2FgmF9TrI9WiEHnCSW4/edit?usp=sharing)
+1. Find at least nine interested students who believe in growing the robotics community and promoting engineering for everyone, and are willing to help lead your new chapter as your first group of society officers. These students will need to submit resumes demonstrating their academic and personal excellence and coursework in robotics engineering.
+2. Find a faculty adviser - someone who your new officers trust and respect. They'll help you resolve conflicts, ensure compliance with university regulations, and connect your new society to department faculty. Your adviser should also be prepared to endorse your founding members as exemplary members of your school's robotics program.
+3. Develop a set of proposed bylaws, laying out how your new chapter will function and how it will foster your school's robotics community. Check out our [templates](../resources/templates) page for help getting started.
 
 ## Ok, I've done all that. What now?
 Reach out to the Rho Beta Epsilon National Board (they're the ones who made this website!). They'll help answer any questions you still have or provide support to make the **How to Start a Chapter** steps easier.
