@@ -35,10 +35,9 @@ To be a member of Rho Beta Epsilon, you need to:
 - Demonstrate mastery of a set of technical questions posed by your local chapter (if you're starting a chapter, the national PBE board will help evaluate potential members)
 
 and most importantly,
-- Exemplify the values of Rho Beta Epsilon: 
-    - Encourage and recognize exemplary robotics students at the university level while aiding in their personal and professional development, and to advance the robotics engineering community through exceptional education, leadership, and passion for robotics. 
+- Exemplify the values of Rho Beta Epsilon!
 
-## So how do I start a chapter?
+## That's me! So how do I start a chapter?
 1. Find at least nine interested students who believe in growing the robotics community and promoting engineering for everyone, and are willing to help lead your new chapter as your first group of society officers. These students will need to submit resumes demonstrating their academic and personal excellence and coursework in robotics engineering.
 2. Find a faculty adviser - someone who your new officers trust and respect. They'll help you resolve conflicts, ensure compliance with university regulations, and connect your new society to department faculty. Your adviser should also be prepared to endorse your founding members as exemplary members of your school's robotics program.
 3. Develop a set of proposed bylaws, laying out how your new chapter will function and how it will foster your school's robotics community. Check out our [templates](../resources/templates) page for help getting started.
