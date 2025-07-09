@@ -17,7 +17,7 @@ University: Worcester Polytechnic Institute
 ### Treasurer:
 Name: Sarah Listzwan
 
-University:
+University: Worcester Polytechnic Institute
 ### Membership Officer:
 Name: Mark Caleca
 
