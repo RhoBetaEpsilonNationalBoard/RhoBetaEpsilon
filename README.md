@@ -8,7 +8,7 @@ Full installation instructions are here: [installation guide](https://gohugo.io/
 <details>
 <summary><strong>Linux Installation Instructions</strong></summary>
 
-3. Install the extended edition of Hugo:
+1. Install the extended edition of Hugo:
     - Download version 0.145.0 from the release: https://github.com/gohugoio/hugo/releases/tag/v0.147.9
       - Download the zip file: hugo_extended_0.147.9_linux-arm64.tar.gz
     - Unzip into a folder somewhere called `hugo` (best spot is probably in `/usr/local/bin`)
