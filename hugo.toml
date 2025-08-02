@@ -48,11 +48,11 @@ pluralizelisttitles = false
     weight     = 1
     parent     = "menu.resources"
 
-[[menu.main]]
-    name       = "Marketing"
-    url        = "/resources/marketing/"
-    weight     = 2
-    parent     = "menu.resources"
+# [[menu.main]]
+#    name       = "Marketing"
+#    url        = "/resources/marketing/"
+#    weight     = 2
+#    parent     = "menu.resources"
 
 [[menu.main]]
     name       = "Starting a Chapter"
@@ -243,9 +243,9 @@ pluralizelisttitles = false
 [params.see_more]
     enable = true
     icon = "far fa-file-alt"
-    title = "Do you want to learn more?"
-    subtitle = "Check out our constitution while we finish up the site."
-    link_url = "/constitution/"
+    title = "Want to learn more?"
+    subtitle = "Read about Rho Beta Epsilon's core mission."
+    link_url = "/about/mission/"
     link_text = "Read more"
 
 [params.clients]
@@ -262,8 +262,10 @@ pluralizelisttitles = false
     subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
     hide_summary = false
 
-[params.footer.recent_posts]
-    enable = false
+[params.stats]
+    enable = true
+    total_members = 391
+    total_colleges = 1
 
 [taxonomies]
     category = "categories"
