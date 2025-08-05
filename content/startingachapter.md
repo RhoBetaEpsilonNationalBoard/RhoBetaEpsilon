@@ -45,7 +45,7 @@ and most importantly,
 ## Ok, I've done all that. What now?
 Reach out to the Rho Beta Epsilon National Board (they're the ones who made this website!). They'll help answer any questions you still have or provide support to make the **How to Start a Chapter** steps easier.
 
-When you're ready, send the National Board your list of proposed members, your faculty adviser, and your drafted bylaws via email at [rho-beta-epsilon-nationals@gmail.com](rho-beta-epsilon-nationals@gmail.com). The Board will review your information and determine whether you meet the criteria to be an active chapter of Rho Beta Epsilon.
+When you're ready, send the National Board your list of proposed members, your faculty adviser, and your drafted bylaws via email at [rho-beta-epsilon-nationals@googlegroups.com](rho-beta-epsilon-nationals@googlegroups.com). The Board will review your information and determine whether you meet the criteria to be an active chapter of Rho Beta Epsilon.
 
 ## What happens after that?
 If the Board accepts your application, your new chapter will be officially recognized! The National Board will help you with the next steps to ensuring your chapter can recruit new members and become a valuable piece of your school's robotics program!
