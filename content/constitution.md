@@ -123,12 +123,12 @@ The National Board may choose to increase semesterly dues for the upcoming semes
 The National Board retains ultimate financial control over all dues collected by the chapters.
 
 ##### Subsection III. Inductions
-All chapters are required to conduct at least two inductions each academic year: at least once in the fall semester and at least once in the spring semester. The specific details of the induction process are chosen by each chapter, but must include a reading of the Rho Beta Epsilon Induction Proceedings script or a modified version thereof.
+All chapters are required to conduct at least two inductions each academic year: at least once in the fall semester and at least once in the spring semester. The specific details of the induction process are chosen by each chapter, but must include a reading of the [Rho Beta Epsilon Induction Proceedings script](/content/resources/templates.md/#induction-script) or a modified version thereof.
 
 ##### Subsection IV. Chapter Reports
 At least once per semester, before a deadline established by the National Board and given to each chapter by at most the fourth week of their respective semester, each chapter is required to provide the National Board with a report of the chapter’s semester activities; a summary of any changes made to the chapter’s bylaws along with a copy of the chapter’s active bylaws; and a membership roster listing member names, year of graduation, degree type, and officer role. They should also provide any photos taken for external marketing purposes, and a summary of any events hosted by the chapter. 
 
-Templates for all required above deliverables will be created and maintained by the National Board. Chapters may choose not to use these templates, but any alternative used must encompass the requested information. These templates will be provided to each chapter along with the completion deadline as described above.
+[Templates](/content/resources/templates.md/#chapter-report) for all required above deliverables will be created and maintained by the National Board. Chapters may choose not to use these templates, but any alternative used must encompass the requested information. These templates will be provided to each chapter along with the completion deadline as described above.
 
 Additionally, each chapter must create and maintain an email alias that includes all members of the chapter’s officer board for communication with the National Board. If a chapter uses an alternate method of internal communication such as Slack or Discord, at least one member of the National Board should be included.
 
