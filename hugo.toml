@@ -264,7 +264,7 @@ pluralizelisttitles = false
 
 [params.stats]
     enable = true
-    total_members = 391
+    total_members = 416
     total_colleges = 1
 
 [taxonomies]
