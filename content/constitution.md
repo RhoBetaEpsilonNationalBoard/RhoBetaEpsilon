@@ -94,7 +94,7 @@ National Board officers who are removed from their position are not eligible to 
 ### Article V. Chapter Eligibility
 #### Section I. Eligibility Requirements
 Any institution interested in forming a chapter of Rho Beta Epsilon must meet the following requirements:
-- The institution must offer an undergraduate or graduate degree in Robotics Engineering or industry accepted equivalent. 
+- The institution must offer an undergraduate or graduate degree in Robotics Engineering or industry-accepted equivalent. 
 - The prospective chapter must contain at least six members to fulfill the required officer positions, as defined in Article VI Section III. The founding members must be approved by the Rho Beta Epsilon National Board to ensure that they meet national membership standards. 
 - The prospective chapter must identify a faculty advisor at their institution, following any institutional requirements for student group status.
 #### Section II. Forming a Chapter
