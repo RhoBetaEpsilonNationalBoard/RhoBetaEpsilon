@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rhobetaepsilonnationalboard.github.io/RhoBetaEpsilon/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://rhobetaepsilonnationalboard.github.io/RhoBetaEpsilon/about/chapters/</loc>
+    <loc>http://localhost:1313/about/chapters/</loc>
   </url><url>
-    <loc>https://rhobetaepsilonnationalboard.github.io/RhoBetaEpsilon/authors/</loc>
+    <loc>http://localhost:1313/authors/</loc>
   </url><url>
-    <loc>https://rhobetaepsilonnationalboard.github.io/RhoBetaEpsilon/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://rhobetaepsilonnationalboard.github.io/RhoBetaEpsilon/constitution/</loc>
+    <loc>http://localhost:1313/constitution/</loc>
   </url><url>
-    <loc>https://rhobetaepsilonnationalboard.github.io/RhoBetaEpsilon/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>https://rhobetaepsilonnationalboard.github.io/RhoBetaEpsilon/resources/templates/</loc>
+    <loc>http://localhost:1313/resources/templates/</loc>
   </url><url>
-    <loc>https://rhobetaepsilonnationalboard.github.io/RhoBetaEpsilon/resources/marketing/</loc>
+    <loc>http://localhost:1313/resources/marketing/</loc>
   </url><url>
-    <loc>https://rhobetaepsilonnationalboard.github.io/RhoBetaEpsilon/about/board/</loc>
+    <loc>http://localhost:1313/about/board/</loc>
   </url><url>
-    <loc>https://rhobetaepsilonnationalboard.github.io/RhoBetaEpsilon/about/mission/</loc>
+    <loc>http://localhost:1313/about/mission/</loc>
   </url><url>
-    <loc>https://rhobetaepsilonnationalboard.github.io/RhoBetaEpsilon/resources/</loc>
+    <loc>http://localhost:1313/resources/</loc>
   </url><url>
-    <loc>https://rhobetaepsilonnationalboard.github.io/RhoBetaEpsilon/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://rhobetaepsilonnationalboard.github.io/RhoBetaEpsilon/startingachapter/</loc>
+    <loc>http://localhost:1313/startingachapter/</loc>
   </url><url>
-    <loc>https://rhobetaepsilonnationalboard.github.io/RhoBetaEpsilon/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

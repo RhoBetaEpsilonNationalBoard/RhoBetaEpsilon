@@ -1,4 +1,4 @@
-baseURL = 'https://rhobetaepsilonnationalboard.github.io/RhoBetaEpsilon/'
+baseURL = 'https://rhobetaepsilon.org/'
 languageCode = 'en-us'
 title = 'Rho Beta Epsilon'
 theme = ''
@@ -106,7 +106,7 @@ pluralizelisttitles = false
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
-    basePath = "/RhoBetaEpsilon"
+    basePath = "/"
     viewMorePostLink = "/blog/"
     author = "DevCows"
     defaultKeywords = ["Rho Beta Epsilon", "National Board", "Robotics", "Honor Society", "College", "University"]

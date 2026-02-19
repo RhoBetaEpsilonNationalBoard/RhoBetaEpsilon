@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resources on Rho Beta Epsilon</title>
-    <link>https://rhobetaepsilonnationalboard.github.io/RhoBetaEpsilon/resources/</link>
+    <link>http://localhost:1313/resources/</link>
     <description>Recent content in Resources on Rho Beta Epsilon</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://rhobetaepsilonnationalboard.github.io/RhoBetaEpsilon/resources/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/resources/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Document Templates</title>
-      <link>https://rhobetaepsilonnationalboard.github.io/RhoBetaEpsilon/resources/templates/</link>
+      <link>http://localhost:1313/resources/templates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rhobetaepsilonnationalboard.github.io/RhoBetaEpsilon/resources/templates/</guid>
+      <guid>http://localhost:1313/resources/templates/</guid>
       <description>&lt;p&gt;To assist both new and established chapters, the National Board maintains a set of template documents for core society activities. These documents are free to all chapters to copy and modify to best suit their goals and needs.&lt;/p&gt;&#xA;&lt;p&gt;These templates are designed to be &amp;ldquo;living&amp;rdquo; documents - as Rho Beta Epsilon grows, the National Board will continue to update these to best match the overall direction of the society. Below are the current set of templates:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Marketing</title>
-      <link>https://rhobetaepsilonnationalboard.github.io/RhoBetaEpsilon/resources/marketing/</link>
+      <link>http://localhost:1313/resources/marketing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rhobetaepsilonnationalboard.github.io/RhoBetaEpsilon/resources/marketing/</guid>
+      <guid>http://localhost:1313/resources/marketing/</guid>
       <description></description>
     </item>
   </channel>
