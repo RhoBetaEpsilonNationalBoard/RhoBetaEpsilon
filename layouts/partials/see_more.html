@@ -12,11 +12,9 @@
                 <p class="text-center">
                     {{ with .Site.Params.see_more.link_url }}
                     <a href="{{ . | relURL }}" class="btn btn-template-transparent-black btn-lg">
-                    {{ end }}
-                        {{ with .Site.Params.see_more.link_text }}
+                        {{ with $.Site.Params.see_more.link_text }}
                         {{ . | markdownify }}
                         {{ end }}
-                    {{ with .Site.Params.see_more.link_url }}
                     </a>
                     {{ end }}
                 </p>
