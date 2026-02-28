@@ -14,11 +14,13 @@ More than anything, the goal of inductions is to impress upon new members the ho
 #### Chapter Bylaws
 The bylaws lay out each chapters goals -- for promoting engineering and fostering community -- and procedures -- for ensuring fairness during voting and the induction process, tracking membership and finances, and upholding the values of Rho Beta Epsilon. This template helps ensure core tenets of Rho Beta Epsilon are followed from chapter to chapter. Yellow highlights in the text are designed to show the areas requiring changes, though each chapter can (and should) remove, add, or adjust from the overall template as much as they want.
 
-[Bylaws Template](https://docs.google.com/document/d/117QfsoK0ZsfPC-lv2NcsBnWtRbBVseF2M4O3syLzaD8/edit?usp=sharing/template/preview)
+[Bylaws Template](https://docs.google.com/document/d/117QfsoK0ZsfPC-lv2NcsBnWtRbBVseF2M4O3syLzaD8/template/preview)
 
 #### Chapter Report
 The National Board asks that each chapter submits a report once each semester, updating the Board on that chapter's activity since the last report. This helps make sure each chapter is maintaining a healthy membership, following their bylaws, and doing their best to support their home institution's robotics engineering community. These reports are also a great chance for chapters to ask the National Board for support or advice. To streamline this process, we provide some templates outlining exactly what info we're looking for from each chapter.
 
-[Status Report](https://docs.google.com/document/d/1l_mlCTbFG8FSZvQ1_W4gpEhJTnkKmZ8gr7tePTdSH48/edit?usp=sharing/template/preview)
-[Roster](https://docs.google.com/spreadsheets/d/1YKYeKbHsHOfF4uqg92lwK13Cumq3THYQBACgs_olgrg/edit?usp=sharing/template/preview)
-[Event Recap](https://docs.google.com/spreadsheets/d/1oqpB2C9k6BHB1Fasu4Zi5vurdZPSzbz_-hxpk2Fu3d0/edit?usp=sharing/template/preview)
+[Status Report](https://docs.google.com/document/d/1l_mlCTbFG8FSZvQ1_W4gpEhJTnkKmZ8gr7tePTdSH48/template/preview)
+
+[Roster](https://docs.google.com/spreadsheets/d/1YKYeKbHsHOfF4uqg92lwK13Cumq3THYQBACgs_olgrg/template/preview)
+
+[Event Recap](https://docs.google.com/spreadsheets/d/1oqpB2C9k6BHB1Fasu4Zi5vurdZPSzbz_-hxpk2Fu3d0/template/preview)
