@@ -19,8 +19,6 @@ The bylaws lay out each chapters goals -- for promoting engineering and fosterin
 #### Chapter Report
 The National Board asks that each chapter submits a report once each semester, updating the Board on that chapter's activity since the last report. This helps make sure each chapter is maintaining a healthy membership, following their bylaws, and doing their best to support their home institution's robotics engineering community. These reports are also a great chance for chapters to ask the National Board for support or advice. To streamline this process, we provide some templates outlining exactly what info we're looking for from each chapter.
 
-[Status Report](https://docs.google.com/document/d/1l_mlCTbFG8FSZvQ1_W4gpEhJTnkKmZ8gr7tePTdSH48/template/preview)
-
-[Roster](https://docs.google.com/spreadsheets/d/1YKYeKbHsHOfF4uqg92lwK13Cumq3THYQBACgs_olgrg/template/preview)
-
+[Status Report](https://docs.google.com/document/d/1l_mlCTbFG8FSZvQ1_W4gpEhJTnkKmZ8gr7tePTdSH48/template/preview) <br>
+[Roster](https://docs.google.com/spreadsheets/d/1YKYeKbHsHOfF4uqg92lwK13Cumq3THYQBACgs_olgrg/template/preview) <br>
 [Event Recap](https://docs.google.com/spreadsheets/d/1oqpB2C9k6BHB1Fasu4Zi5vurdZPSzbz_-hxpk2Fu3d0/template/preview)
