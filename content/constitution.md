@@ -94,11 +94,11 @@ National Board officers who are removed from their position are not eligible to 
 ### Article V. Chapter Eligibility
 #### Section I. Eligibility Requirements
 Any institution interested in forming a chapter of Rho Beta Epsilon must meet the following requirements:
-- The institution must offer an undergraduate or graduate degree in Robotics Engineering or industry-accepted equivalent. 
-- The prospective chapter must contain at least six members to fulfill the required officer positions, as defined in Article VI Section III. The founding members must be approved by the Rho Beta Epsilon National Board to ensure that they meet national membership standards. 
-- The prospective chapter must identify a faculty advisor at their institution, following any institutional requirements for student group status.
+- The institution must offer an undergraduate or graduate degree in Robotics Engineering or industry-accepted equivalent, or offer students the ability to officially designate robotics as a field of study within another engineering major(s). 
+- The prospective chapter must contain at least six members to fulfill the required officer positions, as defined in Article VI Section III, with the sixth member serving as a general body member. The founding members must be approved by the Rho Beta Epsilon National Board to ensure that they meet national membership standards. 
+- The prospective chapter must fulfill all requirements for recognition as an official student-led group at their university, as well as any requirements established by their student government.
 #### Section II. Forming a Chapter
-Prospective chapters must submit a proposed bylaws document to the National Board, as outlined in Article VI Section I Subsection I. 
+Prospective chapters must submit a proposed bylaws document to the National Board, as outlined in Article VI Section I Subsection I. It is strongly recommended, but not required unless by university rules, that proposed bylaws be discussed with a professor(s) from an affiliated department before submission to the National Board.
 
 The National Board must approve the formation of all new chapters through a vote as outlined in Article VII Section II. The results of this vote will be conveyed to all existing chapters and the prospective chapter at most one week after the vote is held. If the vote passes, the prospective chapter immediately becomes an active chapter of the Society with all rights, privileges, and responsibilities and is assigned a chapter letter as outlined in Article I. 
 
@@ -126,7 +126,7 @@ The National Board retains ultimate financial control over all dues collected by
 All chapters are required to conduct at least two inductions each academic year: at least once in the fall semester and at least once in the spring semester. The specific details of the induction process are chosen by each chapter, but must include a reading of the [Rho Beta Epsilon Induction Proceedings script](/content/resources/templates.md/#induction-script) or a modified version thereof.
 
 ##### Subsection IV. Chapter Reports
-At least once per semester, before a deadline established by the National Board and given to each chapter by at most the fourth week of their respective semester, each chapter is required to provide the National Board with a report of the chapter’s semester activities; a summary of any changes made to the chapter’s bylaws along with a copy of the chapter’s active bylaws; and a membership roster listing member names, year of graduation, degree type, and officer role. They should also provide any photos taken for external marketing purposes, and a summary of any events hosted by the chapter. 
+At least once per semester, each chapter is required to provide the National Board with a report of the chapter’s semester activities; a summary of any changes made to the chapter’s bylaws along with a copy of the chapter’s active bylaws; and a membership roster listing member names, year of graduation, degree type, and officer role. The submission deadline for this report will be provided to each chapter by the National Board; the deadline will be provided to each chapter at least one month prior to the deadline date itself. They should also provide any photos taken for external marketing purposes, and a summary of any events hosted by the chapter.  
 
 [Templates](/content/resources/templates.md/#chapter-report) for all required above deliverables will be created and maintained by the National Board. Chapters may choose not to use these templates, but any alternative used must encompass the requested information. These templates will be provided to each chapter along with the completion deadline as described above.
 
@@ -140,13 +140,13 @@ If a chapter fails to meet the requirements set out in Article VI for three cons
 #### Section II. Membership Requirements
 ##### Subsection I. New Member Requirements
 Each chapter of Rho Beta Epsilon is required to create admission requirements that adhere to the guidelines listed below. Membership must be conferred solely on the basis of character and specified eligibility, irrespective of membership in other organizations. Each chapter must extend an invitation to apply to eligible candidates prior to each application period. Applicants must meet the following requirements:
-- The student is not on academic probation
-- Must be a Robotics Engineering major or minor, or related field
+- The student is not on academic probation and will be enrolled as a full-time undergraduate student, or a full-time or part-time graduate student, at the time of their induction into the Society.
+- Must be a Robotics Engineering major or minor, or related field of study
 - Exemplify the values of Rho Beta Epsilon as stated in Article II
 - Demonstrate mastery of the Technical Questions developed by each chapter during their induction process, as outlined in their chapter bylaws
-- Demonstrate exceptional knowledge of robotics at the chapter’s host institution
-    - Undergraduate collegiate students must have successfully completed two robotics department courses at the intermediate level or above, or equivalent coursework
-    - Graduate collegiate students must have successfully completed one robotics department course at the graduate level or above, or equivalent coursework
+- Demonstrate exceptional knowledge of robotics at the chapter’s host institution:
+    - Undergraduate collegiate students must have successfully completed two intermediate-level courses demonstrating interdisciplinary knowledge of the "three pillars" of robotics engineering.
+    - Graduate collegiate students must have successfully completed one graduate-level course demonstrating interdisciplinary knowledge of the "three pillars" of robotics engineering.
 - Must have completed three total semesters of undergraduate enrollment or one semester of graduate enrollment
 
 Under no circumstances should a student be discriminated against, nor turned away from membership based on race, gender, religion, sexual orientation, disability, veteran status, marital status, national origin, or cultural background. No student shall, at any point in their association with Rho Beta Epsilon, be physically or psychologically abused.
@@ -215,9 +215,9 @@ Some National Board motions that may affect each Society chapter directly may re
 Some Chapter activities that may affect other chapters of the Society or affect the National Board’s ability to execute its responsibilities may require a vote of the National Board before taking effect. Common examples of this include significant changes to chapter membership dues or application processes. A vote of the National Board may be initiated either by a proposed motion from an active chapter or by an internal motion. If initiated by a proposal from an active chapter, the National Board chair will call for a meeting to discuss and vote on the motion within one month from the time the proposal is received; this meeting may coincide with a regular National Board meeting. The motion will pass if approved by a simple majority of the National Board members unless otherwise specified. The National Board must notify all active chapters of the outcome of the vote within one week of the vote.
 
 ### Article VIII. Amendments and Revisions
-Any member of the National Board or any Collegiate Member in good standing of an active chapter may propose amendments or revisions to this constitution at any time. All proposed changes will be reviewed by the National Board and subjected to a vote as outlined in Article VII Section II of this document.
+Any member of the National Board or any Collegiate Member in good standing of an active chapter may propose amendments or revisions to this constitution at any time. To propose an amendment or revision, a member must submit an email to the National Board outlining the proposed change and the reasons for the change. All proposed changes will be reviewed by the National Board and subjected to a vote as outlined in Article VII Section I of this document.
 
-If the changes are approved by the National Board, a vote of each chapter, as outlined in Article VII Section I, will be called to approve the proposed changes. If the amendments are not approved by the National Board, all chapters will be notified of the requested amendments and the reasons why they were not accepted.
+If the changes are approved by the National Board, a vote of each chapter, as outlined in Article VII Section I, will be called to approve the proposed changes. If amendments proposed by a Collegiate Member are not accepted by the National Board, the proposing chapter will be informed of the reasons for the denial. After any change is approved, all chapters will be notified of the change. This document must be updated within one week of a change being approved for the change to take effect.
 
 The National Board may at any time make changes to correct grammatical or spelling errors, so long as these changes do not in any way materially affect the meaning of the surrounding text. Changes of this type may be made at any time without notifying each Society chapter, though the National Board must vote to confirm any such change.
 

@@ -15,7 +15,7 @@ pluralizelisttitles = false
     weight     = 1
 
 [[menu.main]]
-    name       = "About PBE"
+    name       = "About ⍴βε"
     identifier = "menu.about"
     weight     = 2
 
