@@ -1,20 +1,20 @@
 +++
 title = "Starting a Chapter"
-description = "Info on how to start a new PBE chapter"
+description = "Info on how to start a new ⍴βε chapter"
 +++
-## Why should I start a PBE Chapter?
+## Why should I start a ⍴βε Chapter?
 ### Get recognized for your academic and personal achievement
-Membership in Rho Beta Epsilon is a great way to show both your academic mastery, demonstrated through course success and technical proficiency, and your personal leadership. Similar to other technical honors societies like Tau Beta Pi and Upsilon Pi Epsilon, Rho Beta Epsilon membership is a nationally recognized marker of the best robotics engineering has to offer.
+Membership in Rho Beta Epsilon (⍴βε) is a great way to show both your academic mastery, demonstrated through course success and technical proficiency, and your personal leadership. Similar to other technical honors societies like Tau Beta Pi and Upsilon Pi Epsilon, Rho Beta Epsilon membership is a nationally recognized marker of the best robotics engineering has to offer.
 ### Connect to fellow robotics engineers in academia and the workfoce
 Rho Beta Epsilon has over 400 alumni working at top robotics companies including Boston Dynamics, Amazon Robotics, SpaceX, and Tesla. By joining the organization, student members gain access to this network of alumni and can benefit from both professional advice and connections. Members can also connect to chapters at other schools, helping find opportunities for research and further education.
 ### Foster a stronger community within your university
 Rho Beta Epsilon members are responsible for fostering a strong community within their larger robotics engineering community. They organize events and workshops that benefit the entire robotics community and serve as a liaison with university faculty to voice student concerns. Members are also given tools to helps out in labs and during high-stress times like finals week or course selection, empowering members as department leaders while supporting the robotics community at the chapter's host school.
 
 ## How do I know if my school can have a chapter?
-Any college or university with an undergraduate or graduate degree in robotics engineering is eligible for a PBE chapter!
+Any college or university with an undergraduate or graduate degree in robotics engineering is eligible for a ⍴βε chapter!
 
 ## Wait wait wait, robotics engineering? What's that?
-Robotics combines engineering, computer science, and AI to create machines for various tasks. Here at PBE, we consider robotics engineering as any degree program that combines mechanical, electrical, and computer enginering, along with computer science, into one course of study. Coursework in robotics covers most of the following topics: sensing, actuation, manipulation, planning, kinematics, and control. Robotics coursework should also include a substantial amount of project work involving designing, building, and testing real world robots.
+Robotics combines engineering, computer science, and AI to create machines for various tasks. Here at ⍴βε, we consider robotics engineering as any degree program that combines the "three pillars" of robotics - mechanical engineering, electrical and computer engineering, and computer science - into one course of study. Coursework in robotics covers most of the following topics: sensing, actuation, manipulation, planning, kinematics, and control. Robotics coursework should also include a substantial amount of project work involving designing, building, and testing real world robots.
 
 Some schools may have official degrees in robotics engineering. Other schools might treat this as a 'focus' within a larger department, or have qualifying degrees in topics like mechatronics, automation, or artificial inteliigence.
 
@@ -25,14 +25,14 @@ Some examples of eligible programs include:
 
 ## Awesome! So who can be a Rho Beta Epsilon member?
 To be a member of Rho Beta Epsilon, you need to:
-- Be enrolled at a college or university with an active PBE chapter
+- Be enrolled at a college or university with an active ⍴βε chapter
     - Undergrads need to have completed three semesters
     - Grads need to have completed one semester
 - Be seeking a degree (BS, MS, or PhD) or a minor in robotics engineering, or your school's equivalent
-- Demonstrate exceptional knowledge of robotics at your school, by taking:
-    - Two robotics classes at an intermediate (sophomore) level or above as an undergraduate student
-    - One robotics class at the graduate level or above as a graduate student
-- Demonstrate mastery of a set of technical questions posed by your local chapter (if you're starting a chapter, the national PBE board will help evaluate potential members)
+- Demonstrate exceptional knowledge of robotics at the chapter’s host institution:
+    - Undergraduate collegiate students must have successfully completed two intermediate-level courses demonstrating interdisciplinary knowledge of the "three pillars" of robotics engineering.
+    - Graduate collegiate students must have successfully completed one graduate-level course demonstrating interdisciplinary knowledge of the "three pillars" of robotics engineering.
+- Demonstrate mastery of a set of technical questions posed by your local chapter (if you're starting a chapter, the national ⍴βε board will help evaluate potential members)
 
 and most importantly,
 - Exemplify the values of Rho Beta Epsilon!
